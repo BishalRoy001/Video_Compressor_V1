@@ -1,4 +1,4 @@
-# 🎬 Komp-presor PRO (Swagy Edition)
+# 🎬 Komp-presor (Swagy Edition)
 
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue)
 ![Version](https://img.shields.io/badge/Version-1.0-brightgreen)
