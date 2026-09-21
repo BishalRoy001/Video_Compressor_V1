@@ -23,9 +23,9 @@
 
 ## 📸 Interface Overview
 
-> **Developer Note:** Replace this text with an image! Upload your screenshot file to your GitHub repo, click on it, copy the image address, and put it inside the parentheses below:
+> **Developer Note:**
 > 
-> ![Komp-presor Dashboard](Komp-presor v1.0.png)
+> ![Komp-presor Dashboard](Komp-presor-v1.0.png)
 
 ---
 
