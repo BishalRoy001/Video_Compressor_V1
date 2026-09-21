@@ -23,8 +23,8 @@
 
 ## 📸 Interface Overview
 
-> **Developer Note:**
-> 
+
+
 > ![Komp-presor Dashboard](Komp-presor-v1.0.png)
 
 ---
