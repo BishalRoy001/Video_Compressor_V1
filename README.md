@@ -25,7 +25,7 @@
 
 > **Developer Note:** Replace this text with an image! Upload your screenshot file to your GitHub repo, click on it, copy the image address, and put it inside the parentheses below:
 > 
-> ![Komp-presor Dashboard](Screenshot 2026-09-21 143401)
+> ![Komp-presor Dashboard](Komp-presor v1.0.png)
 
 ---
 
